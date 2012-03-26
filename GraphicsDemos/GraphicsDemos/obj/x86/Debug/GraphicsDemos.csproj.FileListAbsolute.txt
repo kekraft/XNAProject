@@ -1,0 +1,42 @@
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.pdb
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.pdb
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\Content\Cube.xnb
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsToolkit.dll
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsToolkit.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\Content\Cube.xnb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsToolkit.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\Content\Cube.xnb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsToolkit.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\Content\Cube.xnb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsToolkit.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.exe
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.pdb
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\Content\Cube.xnb
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.exe
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsDemos.pdb
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\GraphicsToolkit.pdb
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.exe
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\obj\x86\Debug\GraphicsDemos.pdb
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemos\bin\x86\Debug\Content\DebugFont.xnb

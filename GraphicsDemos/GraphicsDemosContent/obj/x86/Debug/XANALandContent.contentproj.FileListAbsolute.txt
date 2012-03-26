@@ -1,0 +1,2 @@
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemosContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Furman\CSC344\GraphicsDemos\GraphicsDemosContent\obj\x86\Debug\ResolveAssemblyReference.cache

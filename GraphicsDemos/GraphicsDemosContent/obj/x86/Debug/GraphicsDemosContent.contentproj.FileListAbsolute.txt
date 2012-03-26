@@ -1,0 +1,5 @@
+C:\Users\Brian\Projects\GraphicsDemos\GraphicsDemos\GraphicsDemosContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos\GraphicsDemos\GraphicsDemosContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemosContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemosContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\skiningham\My Documents\GraphicsDemos - Collision\GraphicsDemos - Skeleton\GraphicsDemos - Skeleton\GraphicsDemos\GraphicsDemosContent\obj\x86\Debug\ResolveAssemblyReference.cache

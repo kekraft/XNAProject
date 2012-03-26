@@ -1,0 +1,18 @@
+C:\Users\Brian\Projects\GraphicsToolkit\GraphicsToolkit\bin\x86\Debug\GraphicsToolkit.dll
+C:\Users\Brian\Projects\GraphicsToolkit\GraphicsToolkit\bin\x86\Debug\GraphicsToolkit.pdb
+C:\Users\Brian\Projects\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Projects\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Projects\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\GraphicsToolkit.dll
+C:\Users\Brian\Projects\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\GraphicsToolkit.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsToolkit\GraphicsToolkit\bin\x86\Debug\GraphicsToolkit.dll
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsToolkit\GraphicsToolkit\bin\x86\Debug\GraphicsToolkit.pdb
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\GraphicsToolkit.dll
+C:\Users\Brian\Dropbox\School Docs\Computer Graphics\Tutorials\Robot\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\GraphicsToolkit.pdb
+E:\Dropbox\Furman\CSC344\GraphicsToolkit\GraphicsToolkit\bin\x86\Debug\GraphicsToolkit.dll
+E:\Dropbox\Furman\CSC344\GraphicsToolkit\GraphicsToolkit\bin\x86\Debug\GraphicsToolkit.pdb
+E:\Dropbox\Furman\CSC344\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Furman\CSC344\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dropbox\Furman\CSC344\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\GraphicsToolkit.dll
+E:\Dropbox\Furman\CSC344\GraphicsToolkit\GraphicsToolkit\obj\x86\Debug\GraphicsToolkit.pdb
